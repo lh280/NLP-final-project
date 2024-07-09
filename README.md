@@ -3,11 +3,11 @@
 
 ### To connect to repo remotely:
 1. connect to ada on main level (i.e. username) using Remote Explorer
-2. `cd NLP-Homework`
+2. `cd NLP-final-project`
 3. *update repository
 4. close remote connection
 
-#### Note: before do any below steps, confirm within repository (i.e. NLP-Homework)
+#### Note: before do any below steps, confirm within repository (i.e. NLP-final-project)
 
 ### Steps to update repository:
 1. `git fetch --all`
@@ -26,7 +26,7 @@ The changes should now be in the remote.
 This will be a hard-reset to the most recent commit on the repo.
 
 ### Steps to run code to reproduce results:
-1. `cd final-project` (if not already in this main directory)
+1. `cd NLP-final-project` (if not already in this main directory)
 2. `sbatch main.sbatch`
 3. *to watch the job `tail -f [file_name.out]` - the naming convention of the files is `main-[job#].out`
 4. *to cancel the job `scancel [job#]`
