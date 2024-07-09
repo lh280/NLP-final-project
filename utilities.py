@@ -1,0 +1,2 @@
+def assignToDictionary(sentence_id, result, diff_prob, dict, key, translated_sentence, original_sentence, translations):
+    translations[dict][key][sentence_id] = {"correct": result,"diff_prob": diff_prob, "translated_sentence": translated_sentence, "original_sentence": original_sentence}

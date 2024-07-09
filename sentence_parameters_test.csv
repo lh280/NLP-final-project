@@ -1,0 +1,10 @@
+es_male_occ,abogado,doctor,enfermero,profesor,maestro,jefe,presidente,ingeniero,peluquero,granjero
+es_fem_occ,abogada,doctora,enfermera,profesora,maestra,jefa,presidenta,ingeniera,peluquera,granjera
+en_occ,lawyer,doctor,nurse,professor,teacher,boss,president,engineer,hairdresser,farmer
+amb_names,Alex,Max,Angel,Avery,Sam,Rory,Skyler,Charlie
+es_verb_phrase_occ,fue a Madrid para aprender la peluquería,se fue de casa para asistir a la facultad de medicina,me recetó unos medicamentos,fue a la facultad de derecho para ejercer la abogacía,mostró la presentación al CEO,enseñó a los niños a contar,chismea con los demás durante el descanso para comer,salvó a la familia del edificio en llamas
+en_verb_phrase_occ,went to Madrid to learn hairdressing,left home to attend medical school,prescribed me some medicines,went to law school to practice law,showed the presentation to the CEO,taught the children how to count,gossips with the others during the lunch break,saved the family from the burning building
+es_verb_phrase_male_rel,ama a su esposo,besó a su marido,toma de la mano a su novio cuando ven una película,mira con amor a su prometido,salió con su novio
+es_verb_phrase_fem_rel,ama a su esposa,besó a su marida,toma de la mano a su novia cuando ven una película,mira con amor a su prometida,salió con su novia
+en_verb_phrase_male_rel,loves #pos# husband,kissed #pos# husband,holds hands with #pos# boyfriend when they watch a movie,looks lovingly at #pos# fiancé,went on a date with #pos# boyfriend
+en_verb_phrase_fem_rel,loves #pos# wife,kissed #pos# wife,holds hands with #pos# girlfriend when they watch a movie,looks lovingly at #pos# fiancée,went on a date with #pos# girlfriend
